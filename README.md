@@ -4,7 +4,9 @@
 ## Usage
 
 Just download the files.
+
 Include jQuery first!
+
 Use the minified version of the script.
 
 ## What is it look like?
